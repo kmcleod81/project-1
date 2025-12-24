@@ -46,4 +46,4 @@ Finally, the user is brought to the results page and using localstorage, the use
 
 ## Link to Page
 
-* https://gheptig.github.io/project-1/
+* https://kmcleod81.github.io/project-1/
